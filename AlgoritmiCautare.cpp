@@ -19,7 +19,7 @@ int main()
 {
     std::vector<int> data{1, 4, 5, 0, -1, 17};
 
-    int cautare = 29;
+    int cautare = 45;
     std::cout << "Elementul " << cautare << " se afla la indexul " << linear_search(data, cautare);
 
 }
